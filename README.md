@@ -191,7 +191,10 @@ python move_files.py <source_dir> <target_dir>
 ## Credits
 
 Original C implementation by Einar Saukas (c) 2012-2016  
-https://github.com/einar-saukas/ZX7
+https://github.com/einar-saukas/
+
+Alternative implementation (ZX7B) by Antonio Villena  
+https://github.com/antoniovillena/zx7b
 
 JavaScript port by Bedazzle - 2026
 
